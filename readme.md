@@ -56,3 +56,7 @@ The Henna by Safia website is designed to showcase Safia's work, share her story
 These colors were chosen to reflect the warmth, elegance, and traditional feel of henna art.
 
 ---
+## Author
+Safia Bulle
+
+
