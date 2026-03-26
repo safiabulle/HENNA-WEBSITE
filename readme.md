@@ -6,20 +6,39 @@ This is a simple website for **Safia**, a professional henna artist. The site sh
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [intalation](#instalation)
+- [usage](#usage)
+- [license](#license)
 - [Features](#features)
 - [Pages](#pages)
 - [Technologies Used](#technologies-used)
 - [Color Palette](#color-palette)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
-- [License](#license)
-
----
 
 ## Project Overview
 The Henna by Safia website is designed to showcase Safia's work, share her story, and allow clients to book appointments. The site has a clean, elegant aesthetic with henna-inspired colors and a user-friendly layout.
 
 ---
+
+## instalation
+Clone The Repository:
+git@github.com:safiabulle/HENNA-WEBSITE.git
+
+---
+
+## Usage
+clone the repository.
+open the project folder.
+open 'index.html' in any web browser to view the website
+
+---
+
+## license
+None
+
+---
+
 
 ## Features
 - **Homepage** with a banner and call-to-action button.
